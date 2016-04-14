@@ -43,7 +43,7 @@
       "suggested_key": {
         "default": "Ctrl+Shift+End"
       },
-      "description": "Move all tabs from current window to main window"
+      "description": "Move current tab and all tabs to the right into a new window"
     }
   }
 }
